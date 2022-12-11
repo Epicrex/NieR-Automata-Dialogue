@@ -171,7 +171,7 @@ Yohra units names in detail breakdown [here](https://nier.fandom.com/wiki/YoRHa)
 - A2: YoRHa Number 2 Type-A (A = Attacker)
 
 # Quotes
-- "Do you think games are silly little things?" ~ ending E
+- "Do you think games are silly little things?" ~ ending E by the game itself
 - "I taught the children what fear is. I felt they had to know so they wouldn't heedlessly run into danger. But... instead..." ~ A2
 - "I seek to learn and adopt all facets of humanity! Some desire love! Others family! Only then did I realize the truth...the core of humanity... is conflict. They fight. Steal. Kill. This is humanity in its purest form!" ~ one of the twins
 - "We've destroyed machines beyond counting. Perhaps someone sees that as a sin." ~ 2B
