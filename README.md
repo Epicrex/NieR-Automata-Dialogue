@@ -169,3 +169,20 @@ Yohra units names in detail breakdown [here](https://nier.fandom.com/wiki/YoRHa)
 - 2B: YoRHa Number 2 Type-B (B = Battler)
 - 9S: YoRHa Number 9 Type-S (S = Scanner)
 - A2: YoRHa Number 2 Type-A (A = Attacker)
+
+# Quotes
+- "Do you think games are silly little things?" ~ ending E
+- "I taught the children what fear is. I felt they had to know so they wouldn't heedlessly run into danger. But... instead..." ~ A2
+- "I seek to learn and adopt all facets of humanity! Some desire love! Others family! Only then did I realize the truth...the core of humanity... is conflict. They fight. Steal. Kill. This is humanity in its purest form!" ~ one of the twins
+- "We've destroyed machines beyond counting. Perhaps someone sees that as a sin." ~ 2B
+- "There's an important lesson here: The more of a fool people take you for, the more you'll learn of their true nature." ~ Weird Machine
+- "What is it that separates machines from androids like us? The machines have grown emotions. ...Consciousness. The final screams they summoned on the edge of their death... They still echo within me." ~ 2B
+- "A future is not given to you. It is something you must take for yourself." ~ Pod 042
+- "The time I was able to spend with you. It was like memories of pure light. Thank you... Nine... s" ~ 2B
+- "My brother was everything to me... My life was contained in our moments..." ~ Eve
+- "It always ends like this." ~ 2B
+- "I‘m not quite sure what it means to mourn, or even if we have a soul to concern ourselves with. But I hope you’re at rest 2B. Sweet dreams. I’ll be with you before long." ~ 9S
+- "I never quite realized ... how beautiful this world is." ~ A2
+- “Why do I long for humans like this?! Why do I desire the touch of something that no longer exists?” ~ 9S
+- "Do not feel bad about it. We are alive, after all. And being alive is pretty much a constant stream of embarrassment." ~ Pod 153
+- "Everything that lives is designed to end. They are perpetually trapped in a never-ending spiral of life and death. However, life is all about the struggle within this cycle. That is what 'we' believe." ~ ending from Pod 153
