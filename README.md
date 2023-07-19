@@ -1,8 +1,8 @@
-# Made With Help Of
+## Made With Help Of
 - https://github.com/AutomataNieR/NieR-Automata-Text-Files
 - https://lparchive.org/NieR-Automata/
 
-# A Beautiful Performance (Episode XIX)
+## A Beautiful Performance (Episode XIX)
 
 <i>Look at me.</i><br>
 <i>Oh please look at me.</i><br>
@@ -107,7 +107,7 @@ way won't look my way won't look my way won't look my way won't look my way</i><
 <i>someone please look my&nbsp;&nbsp;&nbsp;way</i><br>
 <br>
 
-# Boot
+## Boot
 
 LOADING - BOOTING SYSTEM.<br>
 <br>
@@ -133,7 +133,7 @@ Combat Preparations Complete<br>
 </i>
 
 
-# Endings
+## Endings
 ```gql
 flowers for m[A]chines
 or not to [B]e
@@ -163,14 +163,14 @@ head[Y] battle
 over[Z]ealous
 ```
 
-# YoHRa Units
+## YoHRa Units
 Yohra units names in detail breakdown [here](https://nier.fandom.com/wiki/YoRHa).
 
 - 2B: YoRHa Number 2 Type-B (B = Battler)
 - 9S: YoRHa Number 9 Type-S (S = Scanner)
 - A2: YoRHa Number 2 Type-A (A = Attacker)
 
-# Quotes
+## Quotes
 - "Do you think games are silly little things?" ~ ending E by the game itself
 - "I taught the children what fear is. I felt they had to know so they wouldn't heedlessly run into danger. But... instead..." ~ A2
 - "I seek to learn and adopt all facets of humanity! Some desire love! Others family! Only then did I realize the truth...the core of humanity... is conflict. They fight. Steal. Kill. This is humanity in its purest form!" ~ one of the twins
