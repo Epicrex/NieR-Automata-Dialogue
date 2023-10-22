@@ -185,4 +185,4 @@ Yohra units names in detail breakdown [here](https://nier.fandom.com/wiki/YoRHa)
 - "I never quite realized ... how beautiful this world is." ~ A2
 - “Why do I long for humans like this?! Why do I desire the touch of something that no longer exists?” ~ 9S
 - "Do not feel bad about it. We are alive, after all. And being alive is pretty much a constant stream of embarrassment." ~ Pod 153
-- "Everything that lives is designed to end. They are perpetually trapped in a never-ending spiral of life and death. However, life is all about the struggle within this cycle. That is what 'we' believe." ~ ending E by Pod 153
+- "Everything that lives is designed to end. They are perpetually trapped in a never-ending spiral of life and death. However, life is all about the struggle within this cycle. That is what 'we' believe." ~ Pod 153 during ending E 
