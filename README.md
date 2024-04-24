@@ -164,7 +164,7 @@ over[Z]ealous
 ```
 
 ## YoHRa Units
-Yohra units names in detail breakdown [here](https://nier.fandom.com/wiki/YoRHa).
+More details about YoRHa unit names [here](https://nier.fandom.com/wiki/YoRHa).
 
 - 2B: YoRHa Number 2 Type-B (B = Battler)
 - 9S: YoRHa Number 9 Type-S (S = Scanner)
